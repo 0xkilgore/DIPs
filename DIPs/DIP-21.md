@@ -3,7 +3,7 @@ DIP: 21
 Title: Building Web3 Developer Communities Hub
 Status: Not Implemented
 Themes: Social
-Instances: [Devcon6]
+Instances: Devcon6
 Tags: Event Production
 Authors: sunny@superfluid.finance, fran@superfluid.finance
 Resources Required: Physical room at venue, Tech support, Basic Equipment (Furniture, Power Outlets, TV, etc.)
@@ -45,7 +45,7 @@ No.
 
 ## 1. What actions are required to implement the proposal at Devcon?
 
-Simply a physical space Community Hub space set up. We would ideally like:
+Simply a physical Community Hub space set up. We would ideally like:
 - A clear area for standing networking
 - A seated area for roundtable discussions and relaxation
 - A few desks

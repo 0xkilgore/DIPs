@@ -1,10 +1,10 @@
 ---
 DIP: 38
 Title: A sufficiently decentralized collaboration stack for Devcon 7
-Status: Draft
+Status: Accepted
 Themes: Collaboration
 Tags: Collaboration
-Instances: Devcon 7
+Instances: Devcon7
 Authors: vijay@fileverse.io, andreas@fileverse.io
 Resources Required: Communication support
 Discussion: https://forum.devcon.org/t/dip-38-a-sufficiently-decentralized-collaboration-stack-for-devcon-7/3612
@@ -101,7 +101,7 @@ Finally, we will be submitting another DIP to introduce an onchain AI agents / b
 Key requests are to receive feedback about mocks/app, understand the Devcon team‘s bandwidth for this DIP, and schedule the calls accordingly.
 * **Scheduled calls devcon<>fileverse:**
     * August: 1 call; 
-    * Septembre: 1; 
+    * September: 1; 
     * October: 1;
 
 * Calls are about the below requests, product feedback, and general sync. E.g.:

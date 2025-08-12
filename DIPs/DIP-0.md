@@ -4,6 +4,7 @@ Title: DIP Purpose and Guidelines
 Status: Active
 Themes: Meta
 Tags: Other
+Instances: *
 Authors: Bettina Boon Falleur (@BettinaBF), Ligi (@ligi), Heather Davidson (@p0unce), Skylar (@skylarweaver), Joseph Schweitzer (@ethjoe)
 Discussion: https://forum.devcon.org
 Created: 2020-07-06
@@ -39,7 +40,7 @@ Here is a list of themes to inspire you:
 
 ## Instances
 
-Which events should this DIP target? Can be `*` for all events or a list of specific events - e.g. `Devcon7`.
+Which events should this DIP target? MUST be a list of specific events. e.g. ["Devcon7"].
 
 ## Tags
 Devcon(nect) has several aspects to its organisation. To help us better guide you, select the area of focus that concern your DIP:
@@ -111,7 +112,7 @@ Your first PR should be a first draft of the final DIP. It must meet the formatt
 
 If your DIP requires images, the image files should be included in a subdirectory of the assets folder for that DIP as follows: assets/dip-N (where N is to be replaced with the DIP number). When linking to an image in the DIP, use relative links such as ../assets/dip-1/image.png.
 
-After submitting editors will go through [this checklist](../checklist.md) - it is encouraged that you already went trough these points yourself.
+After submitting editors will go through [this checklist](../checklist.md) - it is encouraged that you already went through these points yourself.
 
 All DIPs should be written in markdown format. Please use the template below:
 

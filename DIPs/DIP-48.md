@@ -1,10 +1,10 @@
 ---
 DIP: 48
 Title: Tabletop Gaming Level Up At Devcon!
-Status: Draft
+Status: Accepted
 Themes: Community & Ethereum Culture, Social Experience
 Tags: Community Involvement, Social, Gaming
-Instances: Devcon7 
+Instances: Devcon7
 Authors: Colton (acetcginfo@gmail.com), Serg, iSpeakNerd
 Resources Required: Physical space at venue (2-3 tables with chairs), Schedule Integration
 Discussion: https://forum.devcon.org/t/tabletop-gaming-level-up-at-devcon/4120
